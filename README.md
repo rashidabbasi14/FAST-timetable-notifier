@@ -1,8 +1,7 @@
 # 🚀 FAST Timetable Notifier: Revolutionizing Campus Schedule Management 🚀
-
-<p align="center">
-  ![Banner Image Placeholder](https://i.pinimg.com/564x/fb/9a/59/fb9a59e629af43e1f8bd809b256d6918.jpg)
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/564x/fb/9a/59/fb9a59e629af43e1f8bd809b256d6918.jpg" alt="Banner Image" width="20%">
+</div>
 
 > "Never miss a beat. Always be on time. Your academic success, amplified."
 
